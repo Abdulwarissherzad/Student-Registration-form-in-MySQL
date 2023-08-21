@@ -1,5 +1,7 @@
 
-# Student Registraion Form based MySQL Database
+# Student Registration Form based MySQL Database
+![Static Badge](https://img.shields.io/badge/Language-Java-brightgreen)
+![Static Badge](https://img.shields.io/badge/Database-MySQL-brightgreen)
 
 Student Registration form in Java using MySQL Database.
 
